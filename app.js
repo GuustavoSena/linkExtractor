@@ -49,7 +49,7 @@ app.get("/", (req, res) => {
             <code>http://linksscraper-env.eba-z4jqg8m2.us-east-1.elasticbeanstalk.com/fetch-links</code>
             <p>Include a request body with the URL from which you want to extract links, like so:</p>
             <code>{
-  "url": "https://www.adidas-group.com/en/service/sitemap/"
+  "url": "https://www.example.com"
 }</code>
         </div>
     </body>
